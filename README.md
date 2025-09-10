@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @willy
+# 👋 Hi, I’m @willy
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning EDA
 <!---
